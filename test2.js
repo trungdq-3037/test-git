@@ -6,8 +6,13 @@ var abc
 
 
 
+<<<<<<< HEAD
 console.log(12312312)
 console.log(12312312312)
+=======
+console.log(312312312312312312312312312)
+console.log("asdasdasdasdasdasdasdasd")
+>>>>>>> main
 
 
 
