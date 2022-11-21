@@ -6,8 +6,8 @@ var abc
 
 
 
-console.log(abc)
-console.log(abc)
+console.log(312312312312312312312312312)
+console.log("asdasdasdasdasdasdasdasd")
 
 
 
