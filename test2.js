@@ -6,8 +6,8 @@ var abc
 
 
 
-console.log(abc)
-console.log(abc)
+console.log(12312312)
+console.log(12312312312)
 
 
 
@@ -28,5 +28,11 @@ console.log(a+b)
 
 
 
-
+console.log("add file")
 console.log(a+b+c+d+3)
+
+
+
+
+
+console.log("add file 2")
